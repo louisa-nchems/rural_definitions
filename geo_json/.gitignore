@@ -2,3 +2,6 @@ ipeds_locales_geo.geojson
 metro_micro_simple.geojson
 map_data_geo.geojson
 ruca_geo.geojson
+ipeds_locales_geo.pmtiles
+metro_micro_simple.pmtiles
+ruca_geo.pmtiles
